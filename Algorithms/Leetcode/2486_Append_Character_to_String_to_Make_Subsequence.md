@@ -36,7 +36,7 @@ With this problem, I will use Two Pointer to solve it.
 We will have `n` is length of `s` and `m` is length of `t`.  
 We can easily see that as we traverse linearly thorugh string `s`, if we encounter any character of string `t` in the order they appear in `s`, we can decrement the count of characters needs to be added by one.  
 In other words:  
-- Use two pointer, one is `i` for `s` and `j` for `t`. Additional, I will create a variable name `rs` to store the last result and and it will be equal to the length of t at initialization;  
+- Use two pointer, one is `i` for `s` and `j` for `t`. Additional, I will create a variable name `rs` to store the last result and and it will be equal to the length of `t` at initialization;  
 - Traverse through string `s`, if `s[i] == t[j]`, we will increase `j` by one and `rs` will minus one;
 - After we finish traversing, we can return `rs` or we can observe that `rs` decreases each time `j` increases by one unit, so we just need return `m - j` which `m` is length of `t` like I said before.
 
