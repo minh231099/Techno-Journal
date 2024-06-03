@@ -5,5 +5,5 @@ This is the repository where I store the problems I have solved along with expla
 And this is a personal learning journal, so not all solutions are entirely mine. They may be referenced and summarized here (rewritten with my understanding).
 
 # Table of Contents
-- [Leetcode](./Leetcode/)
-- [Codeforces](./Codeforces/)
+- [Leetcode](./Leetcode/Leetcode.md)
+- [Codeforces](./Codeforces/Codeforces.md)
