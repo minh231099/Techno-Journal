@@ -53,7 +53,7 @@ and so on with i = 7, j = 2 and 'g' does not match 'd'
 - So remaining characters in `t` is "ding" and the length is 4.
 
 # Code
-```
+```C++
 class Solution {
 public:
     int appendCharacters(string s, string t) {
