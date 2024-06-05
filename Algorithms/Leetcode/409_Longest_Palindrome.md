@@ -1,6 +1,6 @@
 |Level|Constraints|
 |------|----------|
-|**Easy**|1 <= s.length <= 2000|
+|**Easy**|1 <= `s.length` <= 2000|
 ||`s` consists of lowercase and/or uppercase English letters only.|
 
 # Description
