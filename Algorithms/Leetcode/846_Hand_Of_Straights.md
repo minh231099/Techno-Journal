@@ -1,3 +1,6 @@
+# [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
+Same with: [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)  
+
 |Level|Constraints|
 |------|----------|
 |**Medium**|1 <= `hand.length` <= 10<sup>4</sup>|
